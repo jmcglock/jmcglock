@@ -10,6 +10,5 @@ Make sure to find me on other platforms:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/joeamclaughlin
 - 🚀 My Business: https://www.mclaughlin-solutions.com/
-- 👍 Facebook: https://www.facebook.com/JMcglock-100350182267626
 - ☕ BUY ME A COFFEE: https://paypal.me/joemcglock
 - 🔗 My Blog: https://jmcglock.substack.com/
