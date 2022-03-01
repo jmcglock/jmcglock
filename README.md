@@ -9,6 +9,6 @@ My tech journey started as a mobile sales consultant at BestBuy. From there I be
 Make sure to find me on other platforms:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/joeamclaughlin
-- 🚀 My Business: https://www.mclaughlin-solutions.com/
+- 🚀 About Me: https://about.mcglock.tk/
 - ☕ BUY ME A COFFEE: https://paypal.me/joemcglock
 - 🔗 My Blog: https://jmcglock.substack.com/
