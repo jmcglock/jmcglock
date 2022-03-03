@@ -12,3 +12,4 @@ Make sure to find me on other platforms:
 - 🚀 About Me: https://about.mcglock.tk/
 - ☕ BUY ME A COFFEE: https://paypal.me/joemcglock
 - 🔗 My Blog: https://jmcglock.substack.com/
+- 📨 Email Me: joe@mclaughlin-solutions.com
