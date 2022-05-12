@@ -1,7 +1,5 @@
 Hello Github!
 
-My name is Joe McLaughlin (Mcglock for short).
-
 💼 Head of DevOps and Architecture | 🖥️ DevOps | 🔥 GitOps | 🐋 Docker | 🚢 Kubernetes | 🏠 Homelab
 
 Make sure to find me on other platforms:
