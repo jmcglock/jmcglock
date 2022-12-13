@@ -1,12 +1,12 @@
 Hey Github!
 
 About me:
-* 💼 Head of DevOps and Architecture
-* 🖥️ DevOps 
-* 🔥 GitOps
-* 🐋 Docker
-* 🚢 Kubernetes
-* 🏠 Homelab
+-💼 DevOps and Cloud Specialist
+-🖥️ DevOps
+-🔥 GitOps
+-🐋 Docker
+-🚢 Kubernetes
+-🏠 Homelab
 
 Make sure to find me on other platforms:
 
