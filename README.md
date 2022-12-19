@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jmcglockc</h1>
+<h1 align="center">Hi 👋, I'm jmcglock</h1>
 <h3 align="center">Currently DevOps and Cloud Specialist</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/jmcglock](https://github.com/jmcglock)
