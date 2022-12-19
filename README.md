@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm jmcglock</h1>
-<h3 align="center">Currently DevOps and Cloud Specialist</h3>
+<h3 align="center">DevOps and Cloud Specialist</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jmcglock](https://github.com/jmcglock)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmcglock&label=Profile%20views&color=0e75b6&style=flat" alt="jmcglock" /> </p>
 
-- 📝 I regularly write articles on Substack [https://jmcglock.substack.com/](https://jmcglock.substack.com/)
+- 👨‍💻 See My Work [https://github.com/jmcglock](https://github.com/jmcglock)
 
-- 📫 How to reach me **info@jmcglock.com**
+- 📝 My Substack [https://jmcglock.substack.com/](https://jmcglock.substack.com/)
+
+- 📧 Email Me **info@jmcglock.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/joeamclaughlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeamclaughlin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jmcglock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jmcglock" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
