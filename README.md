@@ -2,9 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmcglock&label=Profile%20views&color=0e75b6&style=flat" alt="jmcglock" /> </p>
 
-- 👨‍💻 See My Work: https://github.com/jmcglock 
-- 📝 My Substack: https://jmcglock.substack.com/ 
-- 📧 Email Me: info@jmcglock.com 
+- 👨‍💻 See My Work: https://github.com/jmcglock
+- 📹 My YouTube: https://youtube.com/JMcglock
+- 🐦 My Twitter: https://twitter.com/realjmcglock
+- 📧 Email Me: info@jmcglock.com
 - ☕ Buy Me a Coffee: https://www.buymeacoffee.com/jmcglock
 
 ## About Me 🙋‍♂️
