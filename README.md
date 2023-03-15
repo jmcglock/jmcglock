@@ -1,4 +1,4 @@
-# 🚀 Hey Github, I'm JMcglock | DevOps and Cloud Specialist 🌩
+# JMcglock | DevOps and Cloud Specialist 🌩
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmcglock&label=Profile%20views&color=0e75b6&style=flat" alt="jmcglock" /> </p>
 
