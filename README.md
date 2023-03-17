@@ -11,3 +11,5 @@
 About Me 🙋‍♂️
 
 I am a DevOps and Cloud specialist with experience in automating infrastructure/architecture and deployment processes.
+
+[![JMcglock's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcglock)](https://github.com/jmcglock/github-readme-stats)
