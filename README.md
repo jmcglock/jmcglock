@@ -9,4 +9,5 @@
 - ☕ Buy Me a Coffee: https://www.buymeacoffee.com/jmcglock
 
 About Me 🙋‍♂️
+
 I am a DevOps and Cloud specialist with experience in automating infrastructure/architecture and deployment processes.
