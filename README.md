@@ -1,4 +1,4 @@
-# JMcglock | DevOps and Cloud Specialist 🌩
+# jmcglock | DevOps and Cloud Specialist 🌩
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmcglock&label=Profile%20views&color=0e75b6&style=flat" alt="jmcglock" /> </p>
 
@@ -10,6 +10,6 @@
 
 About Me 🙋‍♂️
 
-I am a DevOps and Cloud specialist with experience in automating infrastructure/architecture and deployment processes.
+I am a Cloud/DevOps Engineer with a passion for building and automating scalable, reliable, and secure infrastructure.
 
 [![JMcglock's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcglock)](https://github.com/jmcglock/github-readme-stats)
