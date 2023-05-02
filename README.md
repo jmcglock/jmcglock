@@ -11,5 +11,3 @@
 About Me 🙋‍♂️
 
 I am a Cloud/DevOps Engineer with a passion for building and automating scalable, reliable, and secure infrastructure.
-
-[![JMcglock's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcglock)](https://github.com/jmcglock/github-readme-stats)
