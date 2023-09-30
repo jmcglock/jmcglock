@@ -1,8 +1,6 @@
 # Hello, I'm jmcglock 👋
 ## Currently | Cloud/DevOps Engineer 🌩
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmcglock&label=Profile%20views&color=0e75b6&style=flat" alt="jmcglock" /> </p>
-
 - 👨‍💻 See My Work: https://github.com/jmcglock
 - 📹 My YouTube: https://youtube.com/JMcglock
 - 🐦 My Twitter: https://twitter.com/realjmcglock
