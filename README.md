@@ -1,13 +1,24 @@
-# Hello, I'm jmcglock 👋
-## Currently | Cloud/DevOps Engineer 🌩
+# Hi there 👋 I'm Joe McLaughlin (jmcglock) - Currently Cloud/DevOps Engineer
 
-- 👨‍💻 See My Other Links: https://about.jmcglock.com
-- 📧 Email Me: info@jmcglock.com
-- ☕ Buy Me a Coffee: https://www.buymeacoffee.com/jmcglock
+Experienced Cloud/DevOps Engineer specializing in building, managing, and automating robust large-scale cloud platforms. 
 
-About Me:
+## 🛠 Technical Skills & Tools
+- AWS services (EC2, VPC, IAM, S3, CloudFront etc.)
+- GCP services (Compute Engine, VPC, IAM, Cloud Storage etc.)
+- Azure services (Virtual Machines, VNet, IAM, Blob Storage etc.)
+- Oracle Cloud services (Compute, VCN, IAM, Object Storage etc.)
+- Linux (Ubuntu, CentOS, RHEL, Amazon Linux)
+- Windows Server (2012, 2016, 2019)
+- Python (Scripting & Automation)
+- Bash (Scripting & Automation)
+- Terraform (Infrastructure-as-Code)  
+- Docker & Kubernetes (Containerization)
+- CI/CD pipelines (GitHub Actions, Jenkins etc.)
+- Monitoring & Logging (Prometheus, Grafana, ELK)
 
-I am a Cloud/DevOps Engineer with a passion for building and automating scalable, reliable, and secure infrastructure.
+## 📬 Get In Touch
 
-I have experience with the following cloud providers: AWS, Oracle Cloud, Azure, GCP, and DigitalOcean. 
-I have experience with the following fun tools: Terraform, Ansible, GitOps, Docker, Kubernetes, and most CI/CD pipeline products.
+If you like what you see and want to discuss opportunities, please reach out!
+
+- All My Links: https://about.jmcglock.com
+- Email: info@jmcglock.com
