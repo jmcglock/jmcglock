@@ -18,7 +18,7 @@ Experienced Cloud/DevOps Engineer specializing in building, managing, and automa
 
 ## 📬 Get In Touch
 
-If you like what you see and want to discuss opportunities, please reach out!
+Interested in collaborating or discussing opportunities? I’d love to connect!
 
-- All My Links: https://about.jmcglock.com
-- Email: info@jmcglock.com
+- **Portfolio**: [https://about.jmcglock.com](https://about.jmcglock.com)
+- **Email**: [info@jmcglock.com](mailto:info@jmcglock.com)
