@@ -1,6 +1,7 @@
-# Hi there 👋 I'm Joe McLaughlin (jmcglock) - Currently Cloud/DevOps Engineer
+# Hi there 👋 I'm Joe McLaughlin (jmcglock) 
+## Currently | Senior Cloud Architect @ Nirvana Labs
 
-Experienced Cloud/DevOps Engineer specializing in building, managing, and automating robust large-scale cloud platforms. 
+Senior Cloud Architect specializing in designing, building, and automating robust large-scale cloud platforms. 
 
 ## 🛠 Technical Skills & Tools
 - AWS services (EC2, VPC, IAM, S3, CloudFront etc.)
