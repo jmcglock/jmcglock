@@ -23,3 +23,5 @@ Interested in collaborating or discussing opportunities? I’d love to connect!
 
 - **Portfolio**: [https://about.jmcglock.com](https://about.jmcglock.com)
 - **Email**: [info@jmcglock.com](mailto:info@jmcglock.com)
+
+[![jmcglock](https://github-readme-stats.vercel.app/api?username=jmcglock)](https://github.com/jmcglock/github-readme-stats)
