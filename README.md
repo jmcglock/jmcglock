@@ -4,6 +4,8 @@
 
 I am a Senior Cloud Architect specializing in designing, building, and automating robust large-scale cloud platforms.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
+
 ## 🛠 Technical Skills & Tools
 - AWS (EC2, VPC, IAM, S3, CloudFront etc.)
 - GCP (Compute Engine, VPC, IAM, Cloud Storage etc.)
