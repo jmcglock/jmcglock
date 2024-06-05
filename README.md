@@ -1,9 +1,9 @@
 # Hi 👋
 
-## Joe McLaughlin | Senior Cloud Architect @ Nirvana Labs
+## Joe McLaughlin | Senior Cloud Engineer @ Nirvana Labs
 ###### *(McLaughlin is pronounced "Mic-glock-lin")*
 
-Welcome! I am a Senior Cloud Architect specializing in designing, building, and automating robust large-scale cloud platforms.
+Welcome! I am a Senior Cloud Engineer specializing in designing, building, and automating robust large-scale cloud platforms.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
 
