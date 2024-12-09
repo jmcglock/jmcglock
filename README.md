@@ -1,31 +1,113 @@
-# Hi 👋
+# joe mclaughlin ⚡️
 
-## Joe McLaughlin | Senior Cloud Engineer @ Nirvana Labs
-###### *(McLaughlin is pronounced "Mic-glock-lin")*
+senior cloud engineer at [nirvana labs](https://nirvanalabs.io) • building global, scalable, and secure cloud infrastructure
 
-Welcome! I am a Senior Cloud Engineer specializing in designing, building, and automating robust large-scale cloud platforms.
+<sup>mclaughlin is pronounced "mic-glock-lin"</sup>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
+## tech stack
 
----
+```hcl
+# terraform plan -out="my-career.tfplan"
 
-## 🛠 Technical Skills & Tools
+provider "cloud_engineer" {
+  name     = "joe_mclaughlin"
+  location = "global"
+}
 
-I have experience with a variety of tools and technologies, including:
+resource "cloud_platforms" "main" {
+  providers = [
+    "aws",
+    "gcp",
+    "azure",
+    "oci",
+    "equinix",
+    "linode"
+  ]
+}
 
-- **Cloud Providers:** AWS, GCP, Azure, OCI, Equinix Metal, DigitalOcean, Linode
-- **Operating Systems:** Ubuntu, CentOS, RHEL, Amazon Linux, Oracle Linux, OpenSUSE, Alpine
-- **Scripting & Automation:** Bash, Python, PowerShell, Ansible, Packer, YAML, JSON, HCL
-- **Infrastructure as Code:** Terraform, Ansible
-- **Containers:** Docker, Kubernetes, EKS, GKE, OKE, Rancher, RKE, K3s, RKE2, Podman
-- **CI/CD:** TeamCity, GitHub Actions, Jenkins, Circle CI
-- **Monitoring & Logging:** Prometheus, Grafana, ELK, CloudWatch, Datadog
+resource "operating_systems" "preferred" {
+  distributions = [
+    "ubuntu",
+    "rhel",
+    "alpine",
+    "centos",
+    "oracle",
+    "suse",
+    "talos"
+  ]
+}
 
----
+resource "infrastructure" "toolkit" {
+  languages = [
+    "bash",
+    "python",
+    "yaml",
+    "hcl",
+    "powershell"
+  ]
 
-## 📬 Get In Touch
+  tools = [
+    "ansible",
+    "terraform",
+    "packer"
+  ]
+}
 
-Interested in collaborating or discussing opportunities? I’d love to connect! Feel free to reach out through any of the following channels:
+resource "container_orchestration" "platforms" {
+  kubernetes = [
+    "gke",
+    "eks",
+    "oke",
+    "rke2",
+    "k3s",
+    "fleet",
+    "argocd"
+  ]
+}
 
-- **Portfolio:** [https://about.jmcglock.com](https://about.jmcglock.com)
-- **Email:** [info@jmcglock.com](mailto:info@jmcglock.com)
+resource "gitops" "platforms" {
+  kubernetes = [
+    "fleet",
+    "argocd"
+  ]
+}
+
+resource "cloud_native" "cncf" {
+  tools = [
+    "helm",
+    "istio",
+    "cert-manager",
+    "rook",
+    "longhorn",
+    "kubevirt",
+    "a-lot-more"
+  ]
+}
+
+resource "ci_cd" "pipeline" {
+  platforms = [
+    "teamcity",
+    "github",
+    "jenkins",
+    "circleci"
+  ]
+}
+
+resource "monitoring" "observability" {
+  tools = [
+    "prometheus",
+    "grafana",
+    "elastic",
+    "datadog"
+  ]
+}
+```
+
+## github activity
+
+![github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
+
+## connect
+
+[![website](https://img.shields.io/badge/website-about.jmcglock.com-blue?style=flat-square)](https://about.jmcglock.com)
+[![email](https://img.shields.io/badge/email-info@jmcglock.com-red?style=flat-square)](mailto:info@jmcglock.com)
