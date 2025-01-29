@@ -1,113 +1,30 @@
-# joe mclaughlin ⚡️
+# Joe McLaughlin
 
-senior cloud engineer at [nirvana labs](https://nirvanalabs.io) • building global, scalable, and secure cloud infrastructure
+<div align="center">
+  
+`Senior Cloud Engineer` • `Pioneering Web3-Optimized Bare Metal Cloud Infrastructure` • `Cloud-Native Architecture Enthusiast`
 
-<sup>mclaughlin is pronounced "mic-glock-lin"</sup>
+</div>
 
-## tech stack
+Senior Cloud Engineer [@nirvanalabs](https://nirvanalabs.io)
 
-```hcl
-# terraform plan -out="my-career.tfplan"
-
-provider "cloud_engineer" {
-  name     = "joe_mclaughlin"
-  location = "global"
-}
-
-resource "cloud_platforms" "main" {
-  providers = [
-    "aws",
-    "gcp",
-    "azure",
-    "oci",
-    "equinix",
-    "linode"
-  ]
-}
-
-resource "operating_systems" "preferred" {
-  distributions = [
-    "ubuntu",
-    "rhel",
-    "alpine",
-    "centos",
-    "oracle",
-    "suse",
-    "talos"
-  ]
-}
-
-resource "infrastructure" "toolkit" {
-  languages = [
-    "bash",
-    "python",
-    "yaml",
-    "hcl",
-    "powershell"
-  ]
-
-  tools = [
-    "ansible",
-    "terraform",
-    "packer"
-  ]
-}
-
-resource "container_orchestration" "platforms" {
-  kubernetes = [
-    "gke",
-    "eks",
-    "oke",
-    "rke2",
-    "k3s",
-    "fleet",
-    "argocd"
-  ]
-}
-
-resource "gitops" "platforms" {
-  kubernetes = [
-    "fleet",
-    "argocd"
-  ]
-}
-
-resource "cloud_native" "cncf" {
-  tools = [
-    "helm",
-    "istio",
-    "cert-manager",
-    "rook",
-    "longhorn",
-    "kubevirt",
-    "a-lot-more"
-  ]
-}
-
-resource "ci_cd" "pipeline" {
-  platforms = [
-    "teamcity",
-    "github",
-    "jenkins",
-    "circleci"
-  ]
-}
-
-resource "monitoring" "observability" {
-  tools = [
-    "prometheus",
-    "grafana",
-    "elastic",
-    "datadog"
-  ]
-}
+```yaml
+cloud: [aws, gcp, azure, oci, latitude, equinix-metal]
+kubernetes:
+  platforms: [eks, gke, oke, rke2, k3s]
+  tooling: [fleet, argocd, istio, cert-manager]
+infrastructure:
+  iac: [terraform, ansible, packer]
+  lang: [python, bash, yaml]
+observability: [prometheus, grafana, elastic, axiom]
+ci: [github-actions, teamcity, jenkins]
 ```
 
-## github activity
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
 
-![github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight)
+<div align="center">
 
-## connect
+[![Website](https://img.shields.io/badge/website-about.jmcglock.com-blue?style=for-the-badge&logo=about.me&logoColor=white)](https://about.jmcglock.com)
+[![Email](https://img.shields.io/badge/email-info@jmcglock.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@jmcglock.com)
 
-[![website](https://img.shields.io/badge/website-about.jmcglock.com-blue?style=flat-square)](https://about.jmcglock.com)
-[![email](https://img.shields.io/badge/email-info@jmcglock.com-red?style=flat-square)](mailto:info@jmcglock.com)
+</div>
