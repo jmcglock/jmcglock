@@ -78,10 +78,21 @@ Senior Cloud Engineer [@nirvanalabs](https://nirvanalabs.io) specializing in web
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcglock&theme=material-palenight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <table>
+    <tr>
+      <td align="center" width="420">
+        <img src="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true" alt="GitHub Stats" width="420" />
+      </td>
+      <td align="center" width="420">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmcglock&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="420" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" width="840">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmcglock&theme=material_palenight" alt="GitHub Profile Details" width="840" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
