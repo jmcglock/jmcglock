@@ -1,7 +1,6 @@
 # <div align="center">Joe McLaughlin</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&duration=1&color=7A54BC&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Joe+McLaughlin" alt="Joe McLaughlin" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1500&color=7A54BC&center=true&vCenter=true&width=600&lines=Senior+Cloud+Engineer;Pioneering+Web3-Optimized+Bare+Metal+Infrastructure;Cloud-Native+Architecture+Enthusiast" alt="Typing SVG" />
 
