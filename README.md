@@ -1,8 +1,9 @@
 <div align="center">
 
-# Joe McLaughlin (jmcglock)
-### Senior Cloud Engineer @ [Nirvana Labs](https://nirvanalabs.io)
+# hello, my name is joe mclaughlin
+### mclaughlin pronounced [mic-glock-lin] – aka jmcglock
+### currently senior cloud engineer @ nirvana labs
 
-🌐 [About Me](https://about.jmcglock.com) &nbsp; | &nbsp; 💼 [LinkedIn](https://linkedin.com/in/jmcglock) &nbsp; | &nbsp; ✉️ [Email](mailto:info@jmcglock.com)
+[about me](https://about.jmcglock.com) &nbsp; | &nbsp; [linkedin](https://linkedin.com/in/jmcglock) &nbsp; | &nbsp; [email](mailto:info@jmcglock.com) | &nbsp; [substack](https://jmcglock.substack.com/))
 
 </div>
