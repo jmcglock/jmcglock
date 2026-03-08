@@ -10,22 +10,6 @@ currently sr. cloud engineer @ tractian
 [![Substack](https://img.shields.io/badge/substack-jmcglock-FF6719?style=flat-square&logo=substack&logoColor=white)](https://jmcglock.substack.com/)
 [![Email](https://img.shields.io/badge/email-info@jmcglock.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@jmcglock.com)
 
-</div>
-
----
-
-### what i work with
-
-```
-kubernetes  ·  terraform  ·  helm  ·  docker  ·  gitops
-gpu infrastructure  ·  multi-cloud  ·  bare-metal
-datadog  ·  grafana
-github actions  ·  ci/cd  ·  ansible  ·  python
-rke2  ·  proxmox  ·  fleet  ·  traefik  ·  longhorn
-```
-
----
-
 <div align="center">
 
 <picture>
