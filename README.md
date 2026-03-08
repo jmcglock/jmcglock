@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/mclaughlin%20pronounced%20[mic--glock--lin]%20—%20aka%20jmcglock-1E1E2E?style=flat-square" alt="pronunciation" />
+`mclaughlin pronounced [mic-glock-lin] — aka jmcglock`
 
 <br/>
 
