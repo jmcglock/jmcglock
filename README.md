@@ -3,7 +3,7 @@
 # hey, i'm joe mclaughlin
 ### mclaughlin pronounced [mic-glock-lin] — aka jmcglock
 
-sr. cloud engineer @ [tractian](https://tractian.com) — currently working with GPUs
+currently sr. cloud engineer @ tractian
 
 [![About Me](https://img.shields.io/badge/about-jmcglock.com-0A0A0A?style=flat-square)](https://about.jmcglock.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-joeamclaughlin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeamclaughlin/)
@@ -14,23 +14,12 @@ sr. cloud engineer @ [tractian](https://tractian.com) — currently working with
 
 ---
 
-### where i've worked
-
-**Sr. Cloud Engineer** · [Tractian](https://tractian.com) · 2025 – present
-> multi-cloud infrastructure for IoT and predictive maintenance platforms. leading GPU infrastructure for ML workloads. terraform, helm, datadog, opentelemetry.
-
-**Sr. Cloud Engineer** · 2023 – 2025
-> bare-metal cloud infrastructure at scale. led declarative infrastructure standardization with terraform. mentored engineers on cloud architecture and distributed systems.
-
-**DevOps & Cloud Specialist** · 2021 – 2023
-> migrated on-prem to cloud. containerized apps and moved to microservices on kubernetes. led SOC2 compliance. CI/CD with teamcity, github actions, circleci.
-
 ### what i work with
 
 ```
 kubernetes  ·  terraform  ·  helm  ·  docker  ·  gitops
 gpu infrastructure  ·  multi-cloud  ·  bare-metal
-datadog  ·  opentelemetry  ·  grafana
+datadog  ·  grafana
 github actions  ·  ci/cd  ·  ansible  ·  python
 rke2  ·  proxmox  ·  fleet  ·  traefik  ·  longhorn
 ```
