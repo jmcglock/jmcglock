@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=hey%2C+i'm+joe+mclaughlin;sr.+cloud+engineer+%40+tractian;gpu+infrastructure+%7C+multi-cloud;kubernetes+%7C+terraform+%7C+gitops" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=hey%2C+i'm+joe+mclaughlin;sr.+cloud+engineer+%40+tractian" alt="Typing SVG" />
 
 <br/>
 
