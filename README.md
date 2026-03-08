@@ -8,23 +8,13 @@
 
 <br/><br/>
 
-<a href="https://about.jmcglock.com">
-  <img src="https://img.shields.io/badge/about-jmcglock.com-1E1E2E?style=for-the-badge&labelColor=BB86FC" alt="About Me" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/joeamclaughlin/">
-  <img src="https://img.shields.io/badge/linkedin-joeamclaughlin-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="LinkedIn" />
-</a>
-
+<a href="https://about.jmcglock.com"><img src="https://img.shields.io/badge/about-jmcglock.com-1E1E2E?style=for-the-badge&labelColor=BB86FC" alt="About Me" /></a>
 <br/>
-
-<a href="https://jmcglock.substack.com/">
-  <img src="https://img.shields.io/badge/substack-jmcglock-1E1E2E?style=for-the-badge&logo=substack&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="Substack" />
-</a>
-&nbsp;
-<a href="mailto:info@jmcglock.com">
-  <img src="https://img.shields.io/badge/email-info@jmcglock.com-1E1E2E?style=for-the-badge&logo=gmail&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/joeamclaughlin/"><img src="https://img.shields.io/badge/linkedin-joeamclaughlin-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="LinkedIn" /></a>
+<br/>
+<a href="https://jmcglock.substack.com/"><img src="https://img.shields.io/badge/substack-jmcglock-1E1E2E?style=for-the-badge&logo=substack&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="Substack" /></a>
+<br/>
+<a href="mailto:info@jmcglock.com"><img src="https://img.shields.io/badge/email-info@jmcglock.com-1E1E2E?style=for-the-badge&logo=gmail&logoColor=BB86FC&labelColor=BB86FC&color=1E1E2E" alt="Email" /></a>
 
 <br/><br/>
 
