@@ -22,7 +22,7 @@ jobs:
       STATS: username=jmcglock&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true
       LANGS: username=jmcglock&layout=compact&langs_count=8&hide_border=true&card_width=467
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Stats (dark)
         uses: stats-organization/github-readme-stats-action@v2
