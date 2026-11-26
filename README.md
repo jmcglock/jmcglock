@@ -13,9 +13,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&icon_color=BB86FC&text_color=CDD6F4&bg_color=1E1E2E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&icon_color=7C3AED" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&icon_color=BB86FC&text_color=CDD6F4&bg_color=1E1E2E" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true&hide_rank=true&icon_color=BB86FC&text_color=CDD6F4&bg_color=1E1E2E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true&icon_color=7C3AED" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jmcglock&show_icons=true&theme=material-palenight&hide_border=true&hide_title=true&hide_rank=true&icon_color=BB86FC&text_color=CDD6F4&bg_color=1E1E2E" />
 </picture>
 
 </div>
