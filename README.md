@@ -18,12 +18,4 @@
 
 `kubernetes` · `talos` · `gitops / argo cd` · `cloudflare` · `go` · `github actions` · `homelab`
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-  <img alt="GitHub Stats" src="./profile/stats-dark.svg" />
-</picture>
-
 </div>
